@@ -153,28 +153,28 @@ body {
                   <td colspan="4"><div align="center" class="стиль11">НАШИ АВТОВЫШКИ</div></td>
                 </tr>
                 <tr>
-                  <td><p align="center" class="стиль4" data-toggle="modal" data-target="#modal-av-1">Mitsubishi Canter 15 м</p>
+                  <td><p align="center" class="стиль4" data-toggle="modal" data-target="#modal-av-1">Автовышка 15 м</p>
                     <p align="center"><img class ="tbl_img" data-toggle="modal" data-target="#modal-av-1" src="images/av-1.png" alt="" width="275" height="130"></p>                  </td>
-                  <td><p align="center" class="стиль4" data-toggle="modal" data-target="#modal-av-2">ISUZU ELF 15м</p>
+                  <td><p align="center" class="стиль4" data-toggle="modal" data-target="#modal-av-2">Автовышка 15м</p>
                     <p><img class ="tbl_img" data-toggle="modal" data-target="#modal-av-2" src="images/av-2.png" alt="" width="275" height="130"></p>                  </td>
-                  <td><p align="center" class="стиль4" data-toggle="modal" data-target="#modal-av-3">Mitsubishi Fuso 19м</p>
+                  <td><p align="center" class="стиль4" data-toggle="modal" data-target="#modal-av-3">Автовышка 19м</p>
                     <p><img class ="tbl_img" data-toggle="modal" data-target="#modal-av-3" src="images/av-nofoto.png" alt="" width="275" height="130"></p>                  </td>
-                  <td><p align="center" class="стиль4" data-toggle="modal" data-target="#modal-av-4">ISUZU Forvard 19м</p>
+                  <td><p align="center" class="стиль4" data-toggle="modal" data-target="#modal-av-4">Автовышка 19м</p>
                     <p><img class ="tbl_img" data-toggle="modal" data-target="#modal-av-4" src="images/av-4.png" alt="" width="275" height="130"></p>                  </td>
                 </tr>
                 <tr>
                   <td><div align="center">
-                    <p class="стиль4" data-toggle="modal" data-target="#modal-av-5">КамАЗ-4326 22м</p>
+                    <p class="стиль4" data-toggle="modal" data-target="#modal-av-5">Автовышка 22м</p>
                     <p><img class ="tbl_img" data-toggle="modal" data-target="#modal-av-5" src="images/av-5.png" alt="" width="275" height="130"></p>
                     </div></td>
                   <td><div align="center">
-                    <p class="стиль4" data-toggle="modal" data-target="#modal-av-6">ISUZU Forvard 25м</p>
+                    <p class="стиль4" data-toggle="modal" data-target="#modal-av-6">Автовышка 25м</p>
                     <p><img class ="tbl_img" data-toggle="modal" data-target="#modal-av-6" src="images/av-6.png" alt="" width="275" height="130"></p>
                     </div></td>
-                  <td><p align="center" class="стиль4" data-toggle="modal" data-target="#modal-av-7">Hyundai HD 30м</p>
-                    <p><img class ="tbl_img" data-toggle="modal" data-target="#modal-av-7" src="images/av-nofoto.png" alt="" width="275" height="130"></p>                  </td>
+                  <td><p align="center" class="стиль4" data-toggle="modal" data-target="#modal-av-7">Автовышка 30м</p>
+                    <p><img class ="tbl_img" data-toggle="modal" data-target="#modal-av-7" src="images/av-7.png" alt="" width="275" height="130"></p>                  </td>
                   <td><div align="center">
-                    <p class="стиль4" data-toggle="modal" data-target="#modal-av-8">КамАЗ-53215 34м</p>
+                    <p class="стиль4" data-toggle="modal" data-target="#modal-av-8">Автовышка 34м</p>
                     <p><img class ="tbl_img" data-toggle="modal" data-target="#modal-av-8" src="images/av-nofoto.png" alt="" width="275" height="130"></p>
                     </div></td>
                 </tr>

@@ -1,6 +1,5 @@
 <style type="text/css">
 
-.tbl_img {margin-top: 0;}
 .стиль 21 {color: #FFFFFF}
 body {
 	background-color: #000000;
@@ -44,14 +43,17 @@ body {
     <td width="149" valign="top"><p><span class="стиль1"></span></p></td>
   </tr>
 </table>
-<table width="200" border="0" align="center">
-  <tr>
-    <td><img src="images/av-2_clip_1.png" alt="av2_1" width="321" height="378"></td>
-    <td>&nbsp;</td>
-    <td><img src="images/av-2_clip_2.png" alt="av2_2" width="362" height="367"></td>
-    <td>&nbsp;</td>
-    <td><img src="images/av-2_clip_3.png" alt="av2_3" width="234" height="378"></td>
-  </tr>
-</table>
+</br>
+
+<link rel="stylesheet" href="/css/lightbox.min.css">
+<section align="center">
+    <div>
+      <a class="example-image-link" href="images/av-2_clip_1.png" data-lightbox="example-set" data-title="Описание 1."><img class="example-image" src="images/av-2_clip_1.png" alt=""/></a>
+      <a class="example-image-link" href="images/av-2_clip_2.png" data-lightbox="example-set" data-title="Описание 2."><img class="example-image" src="images/av-2_clip_2.png" alt="" /></a>
+      <a class="example-image-link" href="images/av-2_clip_3.png" data-lightbox="example-set" data-title="Описание 3."><img class="example-image" src="images/av-2_clip_3.png" alt="" /></a>
+    </div>
+</section>
+<script src="/js/lightbox-plus-jquery.min.js"></script>
+
 </body>
 </html>

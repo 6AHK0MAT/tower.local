@@ -19,7 +19,6 @@ figcaption,
 figure,
 footer,
 header,
-hgroup,
 main,
 menu,
 nav,
@@ -5862,7 +5861,7 @@ button.list-group-item-danger.active:focus {
   filter: alpha(opacity=50);
   opacity: .5;
 }
-button.close {
+button.close { /*Керстик закрытия модального окна*/
   -webkit-appearance: none;
   padding: 0;
   cursor: pointer;
@@ -5940,7 +5939,7 @@ button.close {
 .modal-header {
   padding: 15px;
   border-bottom: 1px solid #e5e5e5;
-  background: #000000;
+  background: #2e2e2e; /*Цвет основы модального хедер*/
   text-align:center;
   color: #FFFFFF;
  }
@@ -5954,13 +5953,14 @@ button.close {
 .modal-body {
   position: relative;
   padding: 15px;
-  background: #000000;
+  color: #FFFFFF;
+  background: #454545; /*Цвет основы модального окна*/
 }
 .modal-footer {
   padding: 15px;
   text-align: right;
   border-top: 1px solid #e5e5e5;
-  background: #000000;
+  background: #454545; /*Цвет основы модального футер*/
 }
 .modal-footer .btn + .btn {
   margin-bottom: 0;
